@@ -1,14 +1,20 @@
 package org.example;
+import org.example.bussnesslogic.Controller;
+import org.example.connection.ConnectionEnabler;
+import org.example.presentation.Frame;
+import org.example.presentation.PopUp;
 
-import org.example.view.SimulationView;
 
 public class Main {
+    /**
+     * <p>Runs the PopUp where some specifications are </p>
+     * @param args void
+     */
+    public static void main(String[] args) throws  Exception {
 
-    public static void main(String[] args) {
+        PopUp pop = new PopUp();
+        pop.setVisible(true);
 
-        SimulationView viewsim = new SimulationView();
-        //    viewsim.setVisibleCheck();
-        viewsim.setUserMode();
-        viewsim.initialize();
+
     }
 }

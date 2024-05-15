@@ -1,0 +1,200 @@
+---- Order no. 1 ----
+client: Vadim Tudor
+product: Faina
+amount: 12
+price: 36
+date: Tue May 14 15:40:18 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 2 ----
+client: Pop Ion
+product: Caiet
+amount: 13
+price: 65
+date: Tue May 14 15:47:00 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 3 ----
+client: Mihai
+product: Caiet
+amount: 1
+price: 5
+date: Wed May 15 12:14:42 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. -1 ----
+client: Vladimir Pop
+product: Perna
+amount: 20
+price: 2600
+date: Wed May 15 19:26:37 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 1 ----
+client: Ciobanu Ioan
+products: 2
+amount: 22
+price: 110
+date: Wed May 15 19:30:27 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 1 ----
+client: Pop Ion
+product: Caiet
+amount: 22
+price: 110
+date: Wed May 15 19:34:20 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 2 ----
+client: Pop Ion
+product: Caiet
+amount: 22
+price: 110
+date: Wed May 15 19:38:29 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 3 ----
+client: Pop Ion
+product: Caiet
+amount: 2
+price: 10
+date: Wed May 15 19:38:52 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 4 ----
+client: Vadim Tudor
+product: Faina
+amount: 22
+price: 66
+date: Wed May 15 19:44:47 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 5 ----
+client: Pop Ion
+product: Caiet
+amount: 1
+price: 5
+date: Wed May 15 19:49:19 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 6 ----
+client: Pop Ion
+product: Faina
+amount: 1
+price: 3
+date: Wed May 15 20:00:10 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 7 ----
+client: Vadim Tudor
+product: y
+amount: 1
+price: 3
+date: Wed May 15 20:00:59 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 1 ----
+client: Vadim Tudor
+product: Faina
+amount: 22
+price: 66
+date: Wed May 15 20:03:30 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 2 ----
+client: Vadim Tudor
+product: Creioane
+amount: 22
+price: 264
+date: Wed May 15 20:03:59 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 1 ----
+client: y
+product: Faina
+amount: 2
+price: 6
+date: Wed May 15 20:06:53 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 2 ----
+client: Vadim Tudor
+product: Faina
+amount: 4
+price: 12
+date: Wed May 15 20:09:40 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 1 ----
+client: t
+product: Faina
+amount: 3
+price: 9
+date: Wed May 15 20:13:54 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 2 ----
+client: Vadim Tudor
+product: Faina
+amount: 3
+price: 9
+date: Wed May 15 20:16:11 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 3 ----
+client: Vadim Tudor
+product: Caiet
+amount: 3
+price: 15
+date: Wed May 15 20:16:46 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 1 ----
+client: yes
+product: Caiet
+amount: 4
+price: 20
+date: Wed May 15 20:22:35 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 1 ----
+client: Pop Ion
+product: Faina
+amount: 4
+price: 12
+date: Wed May 15 20:28:14 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 2 ----
+client: Pop Ion
+product: Faina
+amount: 4
+price: 12
+date: Wed May 15 21:01:42 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 3 ----
+client: Vadim Tudor
+product: Faina
+amount: 1
+price: 3
+date: Wed May 15 22:07:40 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 4 ----
+client: Vadim Tudor
+product: Faina
+amount: 12
+price: 36
+date: Wed May 15 23:50:37 EEST 2024
+----- THANK YOU! -----
+
+---- Order no. 5 ----
+client: d
+product: Faina
+amount: 44
+price: 132
+date: Thu May 16 00:09:10 EEST 2024
+----- THANK YOU! -----
+
