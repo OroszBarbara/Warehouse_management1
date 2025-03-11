@@ -1,6 +1,6 @@
 # Warehouse_Management
 
-Developed a Java-based application simulating a warehouse management system that handles clients, products, and orders. The system allows users to add, edit, search, and delete clients/products and create and view orders. It generates invoices for each order and stores all data in a MySQL database using a DAO pattern for efficient data access. The application features a graphical user interface (GUI) built with Java Swing, providing a user-friendly experience for managing operations.
+This is a Java-based application simulating a warehouse management system that handles clients, products, and orders. The system allows users to add, edit, search, and delete clients/products and create and view orders. It generates invoices for each order and stores all data in a MySQL database using a DAO pattern for efficient data access. The application features a graphical user interface (GUI) built with Java Swing, providing a user-friendly experience for managing operations.
 
 Key features include:
 
